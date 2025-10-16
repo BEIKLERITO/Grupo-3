@@ -45,6 +45,8 @@ $nota_central = $notas_simuladas[2];
             <h2 class="text-center mb-4">Sección de Etiquetas Personalizadas</h2>
             
             <div class="text-center mb-4">
+                <span class="etiqueta-nombre bg-danger text-white">
+                    Hola soy Caicedo Beikler
                 </span>
                 <span class="etiqueta-nombre">
                     Pon tu nombre aquí - 1
