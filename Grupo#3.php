@@ -49,7 +49,7 @@ $nota_central = $notas_simuladas[2];
                     Hola soy Caicedo Beikler
                 </span>
                 <span class="etiqueta-nombre">
-                    Pon tu nombre aquí - 1
+                    Hola soy Naidelyn Merchancano
                 </span>
                 <span class="etiqueta-nombre">
                     Pon tu nombre aquí - 2
