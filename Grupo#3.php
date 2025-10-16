@@ -55,7 +55,7 @@ $nota_central = $notas_simuladas[2];
                     Hola soy Bernal
                 </span>
                 <span class="etiqueta-nombre">
-                    Pon tu nombre aquí - 3
+                     hola soy Nicole Nazareno
                 </span>
                 <span class="etiqueta-nombre bg-success text-white">
                     Pon tu nombre aquí - 4
